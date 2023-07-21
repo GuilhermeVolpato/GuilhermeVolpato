@@ -1,4 +1,4 @@
-# readme
+# README
 Estudante de Engenharia de Software
 Já ministrei workshop na área de IOT e participei de projeto na área quando bolsista no laboratório do curso.
 Criação de um laboratório remoto para aprendizagem em programação de embarcados, usando como plataforma de prototipagem eletrônica o Arduino.
