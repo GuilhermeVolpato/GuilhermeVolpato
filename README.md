@@ -6,7 +6,7 @@
 </div>
 
 ### Sobre mim 🧔🏼
-Desenvolvedor Mobile com experiência em React Native, React, TypeScript, Python, Java e C++ embarcado. Apaixonado por tecnologia e interessado em áreas como Mobile, Back End, Cloud e Ciência de Dados. Graduando em Engenharia de Software. 
+Desenvolvedor Mobile com experiência em React Native, React, TypeScript, Python, Java e C++ embarcado. Apaixonado por tecnologia e interessado em áreas como Mobile, Back End, Cloud e Ciência de Dados. Graduando em Engenharia de Software. No meu tempo livre gosto de Tênis e jogos de simulador de corrida  🎾 🏎️
 
 Conecte-se comigo no LinkedIn para trocar ideias! 💬
 
