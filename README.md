@@ -6,4 +6,4 @@ Desenvolvedor Mobile com experiência em React Native, React, TypeScript, Python
 Conecte-se comigo no LinkedIn para trocar ideias! 💬
 
 
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=guilhermechavesvolpato)
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermechavesvolpato/)
